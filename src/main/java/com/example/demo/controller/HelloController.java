@@ -18,4 +18,8 @@ public class HelloController {
     public String hi(){
         return "welcome to jenkins ";
     }
+
+    public void test001(){
+        System.out.println(111);
+    }
 }
